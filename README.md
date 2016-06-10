@@ -1,6 +1,7 @@
 # nflux_AR-CTF
 
 App website:  http://nflux.2080ar.com
+
 Apple app store link: https://itunes.apple.com/us/app/nflux/id1081599167?ls=1&mt=8
 
 nFlux is an augmented reality game similar to capture the flag that is played in real life. The app keeps score, makes it impossible to cheat, and introduces fun new features. Think of it as a cross between real world sports and video games. It’s a fun way to enjoy the outdoors with friends while getting great exercise. 
